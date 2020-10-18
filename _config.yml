@@ -10,11 +10,11 @@ locale                   : "en-US"
 title                    : "Aaron Schein"
 title_separator          : "-"
 name                     : &name "Aaron Schein"
-description              : &description "personal description"
+description              : &description "Postdoctoral Fellow in the Data Science Institute at Columbia University"
 url                      : https://aschein.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aschein/aschein.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "aaron.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/aschein"
+  github           : "aschein"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-5507-2904"
+  orcid            : # "https://orcid.org/0000-0002-5507-2904"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
