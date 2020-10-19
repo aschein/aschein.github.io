@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Aaron Schein"
   avatar           : "aaron.png"
-  bio              : "Postdoctoral Fellow"
-  location         : # "New York, NY"
-  employer         : "Columbia University"
+  bio              : "Postdoctoral Fellow in the Data Science Institute at Columbia University"
+  location         : "New York, NY"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CaHuRsgAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : # "https://orcid.org/0000-0002-5507-2904"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "aaronschein"
