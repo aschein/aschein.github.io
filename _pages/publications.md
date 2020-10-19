@@ -14,40 +14,39 @@ For a complete list of papers please visit my [Google Scholar](https://scholar.g
 ### A Digital Field Experiment Reveals Large Effects of Friend-to-Friend Texting on Voter Turnout
 A. Schein, K. Vafa, D. Sridhar, V. Veitch, J. Quinn, J. Moffet, D. M. Blei, and D. P. Green
 
-Under review. Preprint available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3696179).
+Under review. Preprint available at SSRN. ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3696179))
 
 Our research was covered by NBC News! ([article](https://www.nbcnews.com/politics/2020-election/coronavirus-ground-game-gamble-hits-home-stretch-n1242803))
 
-Earlier versions of this work were presented at:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + _International Conference on Computational Social Science (IC2S2) 2020_  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Winner of IC2S2 Best Presentation award! ([talk](https://www.youtube.com/watch?v=FjD9CKLnTzA&t)) 
+Earlier versions of this work were presented at:
+* _International Conference on Computational Social Science (IC2S2) 2020_. Winner of the Best Presentation award! ([talk](https://www.youtube.com/watch?v=FjD9CKLnTzA&t)) 
 
 ### Allocative Poisson Factorization for Computational Social Science
 
-_PhD dissertation, UMass Amherst, 2019_ ([pdf](AaronSchein_dissertation.pdf))
+_PhD dissertation, UMass Amherst, 2019_. ([pdf](AaronSchein_dissertation.pdf))
 
 ### Poisson-Randomized Gamma Dynamical Systems
 A. Schein, S. W. Linderman, M. Zhou, D. M. Blei, and H. M. Wallach
 
-_Proceedings of NeurIPS 2019_ ([paper](../files/ScheinLindermanZhouBleiWallach2019_paper.pdf), [poster](../files/ScheinLindermanZhouBleiWallach2019_poster.pdf), [code](https://github.com/aschein/prgds))
+_Proceedings of NeurIPS 2019_. ([paper](../files/ScheinLindermanZhouBleiWallach2019_paper.pdf), [poster](../files/ScheinLindermanZhouBleiWallach2019_poster.pdf), [code](https://github.com/aschein/prgds))
 
 ### Locally Private Bayesian Inference for Count Models
 
 A. Schein, Z. S. Wu, A. Schofield, M. Zhou, and H. M. Wallach
 
-_Proceedings of ICML 2019_ ([paper](http://proceedings.mlr.press/v97/schein19a/schein19a.pdf), [appendix](http://proceedings.mlr.press/v97/schein19a/schein19a-supp.pdf), [poster](../files/ScheinWuSchofieldZhouWallach2019_poster.pdf), [code](https://github.com/xandaschofield/locally_private_bpf_icml19))  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Selected for a full-length oral presentation! ([talk](https://slideslive.com/38917932/privacy))
+_Proceedings of ICML 2019_. ([paper](http://proceedings.mlr.press/v97/schein19a/schein19a.pdf), [appendix](http://proceedings.mlr.press/v97/schein19a/schein19a-supp.pdf), [poster](../files/ScheinWuSchofieldZhouWallach2019_poster.pdf), [code](https://github.com/xandaschofield/locally_private_bpf_icml19))  
+Selected for a full-length oral presentation! ([talk](https://slideslive.com/38917932/privacy))
 
 
 Earlier versions of this work were presented at:    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ _New Directions in Analyzing Text as Data (TADA) 2018_  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ _Advances in Approximate Bayesian Inference (AABI) 2017_ ([poster](ScheinWuZhouWallach2017_poster.pdf))
+* _New Directions in Analyzing Text as Data (TADA) 2018_  
+* _Advances in Approximate Bayesian Inference (AABI) 2017_ ([poster](ScheinWuZhouWallach2017_poster.pdf))
 
 ### Poisson--Gamma Dynamical Systems
 A. Schein, M. Zhou, and H. M. Wallach
 
-_Proceedings of NeurIPS 2016_ ([paper](ScheinZhouWallach2016_paper.pdf), [poster](ScheinZhouWallach2016_poster.pdf), [code](https://github.com/aschein/pgds))  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Selected for a full-length oral presentation! ([talk](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Poisson-Gamma-dynamical-systems), [slides](ScheinZhouWallach2016_slides.pdf))
+_Proceedings of NeurIPS 2016_. ([paper](ScheinZhouWallach2016_paper.pdf), [poster](ScheinZhouWallach2016_poster.pdf), [code](https://github.com/aschein/pgds))  
+Selected for a full-length oral presentation! ([talk](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Poisson-Gamma-dynamical-systems), [slides](ScheinZhouWallach2016_slides.pdf))
 
 ### Bayesian Poisson Tucker Decomposition for Learning the Structure of International Relations
 A. Schein, M. Zhou, D. M. Blei, and H. M. Wallach
@@ -55,8 +54,7 @@ A. Schein, M. Zhou, D. M. Blei, and H. M. Wallach
 _Proceedings of ICML 2016_ ([paper](ScheinZhouBleiWallach2016_paper.pdf), [poster](ScheinZhouBleiWallach2016_poster.pdf), [talk](http://techtalks.tv/talks/bayesian-poisson-tucker-decomposition-for-learning-the-structure-of-international-relations/62411/), [slides](ScheinZhouBleiWallach2016_slides.pdf), [code](https://github.com/aschein/bptd))
 
 Earlier versions of this work were presented at:   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ _NeurIPS 2015 Workshop on Networks in the Social & Information Sciences_  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Winner of Best Student Poster award! ([poster](ScheinZhouBleiWallach2015_poster.pdf))
+* _NeurIPS 2015 Workshop on Networks in the Social & Information Sciences_. Winner of Best Student Poster award! ([poster](ScheinZhouBleiWallach2015_poster.pdf))
 
 ### Bayesian Poisson Tensor Factorization for Inferring Multilateral Relations from Sparse Dyadic Event Counts
 A. Schein, J. Paisley, D. M. Blei, and H. M. Wallach
@@ -64,4 +62,4 @@ A. Schein, J. Paisley, D. M. Blei, and H. M. Wallach
 _Proceedings of KDD 2015_ ([paper](ScheinPaisleyBleiWallach2015_paper.pdf), [poster](ScheinPaisleyBleiWallach2015_poster.pdf), [talk](https://www.youtube.com/watch?v=j4zL8dif6YE), [slides](ScheinPaisleyBleiWallach2015_slides.pdf), [code](https://github.com/aschein/bptf))
 
 Earlier versions of this work were presented at:   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ _NeurIPS 2014 Workshop "From Graphs to Rich Data''_ ([paper](ScheinPaisleyBleiWallach2014_paper.pdf), [poster](ScheinPaisleyBleiWallach2014_poster.pdf))
+* _NeurIPS 2014 Workshop "From Graphs to Rich Data''_ ([paper](ScheinPaisleyBleiWallach2014_paper.pdf), [poster](ScheinPaisleyBleiWallach2014_poster.pdf))
