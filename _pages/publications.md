@@ -50,7 +50,7 @@ Selected for a full-length oral presentation! ([talk](https://slideslive.com/389
 </script>
 
 Earlier versions of this work were presented at:    
-* _New Directions in Analyzing Text as Data (TADA) 2018_  
+* _New Directions in Analyzing Text as Data (TADA) 2018_
 * _Advances in Approximate Bayesian Inference (AABI) 2017_ ([poster](../files/ScheinWuZhouWallach2017_poster.pdf))
 
 ## Poisson--Gamma Dynamical Systems
@@ -68,6 +68,7 @@ A. Schein, M. Zhou, D. M. Blei, and H. M. Wallach
 _Proceedings of ICML 2016_ ([paper](../files/ScheinZhouBleiWallach2016_paper.pdf), [poster](../files/ScheinZhouBleiWallach2016_poster.pdf), [talk](http://techtalks.tv/talks/bayesian-poisson-tucker-decomposition-for-learning-the-structure-of-international-relations/62411/), [slides](../files/ScheinZhouBleiWallach2016_slides.pdf), [code](https://github.com/aschein/bptd))
 
 Earlier versions of this work were presented at:   
+* _International Conference on Computational Social Science (IC2S2) 2016_
 * _NeurIPS 2015 Workshop on Networks in the Social & Information Sciences_. Winner of Best Student Poster award! ([poster](../files/ScheinZhouBleiWallach2015_poster.pdf))
 
 ## Bayesian Poisson Tensor Factorization for Inferring Multilateral Relations from Sparse Dyadic Event Counts
