@@ -50,6 +50,8 @@ Selected for a full-length oral presentation! (Skip to 29:55)
     });
 </script>
 
+<iframe width="700" height="394" src="https://slideslive.com/embed_presentation.js" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Earlier versions of this work were presented at:    
 * _New Directions in Analyzing Text as Data (TADA) 2018_  
 * _Advances in Approximate Bayesian Inference (AABI) 2017_ ([poster](../files/ScheinWuZhouWallach2017_poster.pdf))
@@ -61,7 +63,7 @@ _Proceedings of NeurIPS 2016_. ([paper](../files/ScheinZhouWallach2016_paper.pdf
 
 Selected for a full-length oral presentation! ([talk](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Poisson-Gamma-dynamical-systems), [slides](ScheinZhouWallach2016_slides.pdf))
 
-<iframe src="https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Poisson-Gamma-dynamical-systems/player" width="700" height="394" allowFullScreen frameBorder="0" title="Poisson-Gamma dynamical systems - Microsoft Channel 9 Video"></iframe>
+<iframe width="700" height="394" src="https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Poisson-Gamma-dynamical-systems/player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Bayesian Poisson Tucker Decomposition for Learning the Structure of International Relations
 A. Schein, M. Zhou, D. M. Blei, and H. M. Wallach
