@@ -37,7 +37,7 @@ A. Schein, Z. S. Wu, A. Schofield, M. Zhou, and H. M. Wallach
 
 _Proceedings of ICML 2019_. ([paper](http://proceedings.mlr.press/v97/schein19a/schein19a.pdf), [appendix](http://proceedings.mlr.press/v97/schein19a/schein19a-supp.pdf), [poster](../files/ScheinWuSchofieldZhouWallach2019_poster.pdf), [code](https://github.com/xandaschofield/locally_private_bpf_icml19))
 
-Selected for a full-length oral presentation! (Skip to 29:55) 
+Selected for a full-length oral presentation! (Skip to 29:56) 
 
 <div id="presentation-embed-38917932"></div>
 <script src='https://slideslive.com/embed_presentation.js'></script>
