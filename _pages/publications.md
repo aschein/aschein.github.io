@@ -37,7 +37,7 @@ A. Schein, Z. S. Wu, A. Schofield, M. Zhou, and H. M. Wallach
 
 _Proceedings of ICML 2019_. ([paper](http://proceedings.mlr.press/v97/schein19a/schein19a.pdf), [appendix](http://proceedings.mlr.press/v97/schein19a/schein19a-supp.pdf), [poster](../files/ScheinWuSchofieldZhouWallach2019_poster.pdf), [code](https://github.com/xandaschofield/locally_private_bpf_icml19))
 
-Selected for a full-length oral presentation! ([talk](https://slideslive.com/38917932/privacy), skip to 29:55)      
+Selected for a full-length oral presentation! ([talk](https://slideslive.com/38917932/privacy), skip to 29:55)  
 <div id="presentation-embed-38917932"></div>
 <script src='https://slideslive.com/embed_presentation.js'></script>
 <script>
@@ -60,7 +60,7 @@ _Proceedings of NeurIPS 2016_. ([paper](../files/ScheinZhouWallach2016_paper.pdf
 
 Selected for a full-length oral presentation! ([talk](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Poisson-Gamma-dynamical-systems), [slides](ScheinZhouWallach2016_slides.pdf))
 
-<iframe src="https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Poisson-Gamma-dynamical-systems/player" width="700" height="394" allowFullScreen frameBorder="0" title="Poisson-Gamma dynamical systems - Microsoft Channel 9 Video"></iframe>
+<iframe width="700" height="394" src="https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Poisson-Gamma-dynamical-systems/player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Bayesian Poisson Tucker Decomposition for Learning the Structure of International Relations
 A. Schein, M. Zhou, D. M. Blei, and H. M. Wallach
