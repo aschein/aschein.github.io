@@ -18,8 +18,9 @@ Under review. Preprint available at SSRN. ([paper](https://papers.ssrn.com/sol3/
 
 Our research was covered by NBC News! ([article](https://www.nbcnews.com/politics/2020-election/coronavirus-ground-game-gamble-hits-home-stretch-n1242803))
 
-Earlier versions of this work were presented at:
-* _International Conference on Computational Social Science (IC2S2) 2020_. Winner of the Best Presentation award! ([talk](https://www.youtube.com/watch?v=FjD9CKLnTzA&t)) 
+An earlier version of this work was presented at the _International Conference on Computational Social Science (IC2S2) 2020_ where it won the Best Presentation award!
+
+<iframe width="10" height="5" src="https://www.youtube.com/embed/FjD9CKLnTzA" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Allocative Poisson Factorization for Computational Social Science
 
