@@ -44,7 +44,8 @@ Selected for a full-length oral presentation! (Skip to 29:55)
     embed = new SlidesLiveEmbed('presentation-embed-38917932', {
         presentationId: '38917932',
         autoPlay: false, // change to true to autoplay the embedded presentation
-        verticalEnabled: true
+        verticalEnabled: true,
+        startTime: 1795
     });
 </script>
 
