@@ -20,7 +20,7 @@ Our research was covered by NBC News! ([article](https://www.nbcnews.com/politic
 
 An earlier version of this work was presented at the _International Conference on Computational Social Science (IC2S2) 2020_ where it won the Best Presentation award!
 
-<iframe width="700" height="394" src="https://www.youtube.com/embed/FjD9CKLnTzA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FjD9CKLnTzA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Allocative Poisson Factorization for Computational Social Science
 
@@ -60,7 +60,7 @@ _Proceedings of NeurIPS 2016_. ([paper](../files/ScheinZhouWallach2016_paper.pdf
 
 Selected for a full-length oral presentation! ([talk](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Poisson-Gamma-dynamical-systems), [slides](ScheinZhouWallach2016_slides.pdf))
 
-<iframe width="700" height="394" src="https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Poisson-Gamma-dynamical-systems/player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IhE9du6eFkg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Bayesian Poisson Tucker Decomposition for Learning the Structure of International Relations
 A. Schein, M. Zhou, D. M. Blei, and H. M. Wallach
