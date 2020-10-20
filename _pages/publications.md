@@ -50,8 +50,6 @@ Selected for a full-length oral presentation! (Skip to 29:55)
     });
 </script>
 
-<iframe width="700" height="394" src="https://slideslive.com/embed_presentation.js" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Earlier versions of this work were presented at:    
 * _New Directions in Analyzing Text as Data (TADA) 2018_  
 * _Advances in Approximate Bayesian Inference (AABI) 2017_ ([poster](../files/ScheinWuZhouWallach2017_poster.pdf))
