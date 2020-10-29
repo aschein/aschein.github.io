@@ -15,8 +15,8 @@ I received my PhD from the [College of Information and Computer Sciences](https:
     
 Prior to that, I received an MA in Linguistics from UMass Amherst and a dual BA in Linguistics and Political Science also from UMass.
 
-## News 
+<!-- ## News 
 * Wrote an op-ed for Columbia News!
 * I am in NBC News!
-* Organizing a workshop!
+* Organizing a workshop! -->
  
