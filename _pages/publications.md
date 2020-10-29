@@ -8,6 +8,27 @@ redirect_from:
   - /markdown.html
 ---
 
+<style>
+.iframe-container {
+  position: relative;
+  height: 0;
+  padding-top: 0;
+  padding-bottom: 56.25%; /* 16:9 */
+  background: white;
+}
+
+.iframe-container iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border: 1px solid red;
+}
+</style>
+
 Below are some of my research highights.  
 For a complete list of papers please visit my [Google Scholar](https://scholar.google.com/citations?user=CaHuRsgAAAAJ&hl=en&oi=ao) or download my [CV](../files/cv.pdf).
 
@@ -18,9 +39,11 @@ Under review. Preprint available at SSRN. ([paper](https://papers.ssrn.com/sol3/
 
 Our research was covered by NBC News! ([article](https://www.nbcnews.com/politics/2020-election/coronavirus-ground-game-gamble-hits-home-stretch-n1242803))
 
-An earlier version of this work was presented at the _International Conference on Computational Social Science (IC2S2) 2020_ where it won the Best Presentation award!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FjD9CKLnTzA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+An earlier version of this work was presented at the _International Conference on Computational Social Science (IC2S2) 2020_ where it won the Best Presentation award!  
+<div class="iframe-container">
+     <iframe width="300" height="168" src="https://www.youtube.com/embed/FjD9CKLnTzA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>      
+<!-- <iframe width="300" height="168" src="https://www.youtube.com/embed/FjD9CKLnTzA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ## Allocative Poisson Factorization for Computational Social Science
 
@@ -60,7 +83,7 @@ _Proceedings of NeurIPS 2016_. ([paper](../files/ScheinZhouWallach2016_paper.pdf
 
 Selected for a full-length oral presentation! ([talk](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Poisson-Gamma-dynamical-systems), [slides](ScheinZhouWallach2016_slides.pdf))
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IhE9du6eFkg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="168" src="https://www.youtube.com/embed/IhE9du6eFkg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Bayesian Poisson Tucker Decomposition for Learning the Structure of International Relations
 A. Schein, M. Zhou, D. M. Blei, and H. M. Wallach
