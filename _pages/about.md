@@ -15,8 +15,9 @@ I received my PhD from the [College of Information and Computer Sciences](https:
     
 Prior to that, I received an MA in Linguistics from UMass Amherst and a dual BA in Linguistics and Political Science also from UMass.
 
-<!-- ## News 
-* Wrote an op-ed for Columbia News!
-* I am in NBC News!
-* Organizing a workshop! -->
+## Recent news  
+* My [op-ed](https://news.columbia.edu/friend-friend-texting-election-voter-turnout-polls-canvassing) about Biden's "gamble" on virtual friend-to-friend voter mobilization tactics appeared in Columbia News.  
+* I was featured in an [NBC News article](https://www.nbcnews.com/politics/2020-election/coronavirus-ground-game-gamble-hits-home-stretch-n1242803) about Biden's ground game!
+* I am organizing a NeurIPS 2020 workshop called "I Can't Believe It's Not Better!" that aims to highlight common failure modes in probabilistic machine learning research. See our [call for papers](https://i-cant-believe-its-not-better.github.io/cfp/) (submission due Oct 14).
+* My talk on the effect of friend-to-friend texting on voter turnout was awarded **Best Oral Presentation** at IC2S2 2020! Video available [here](https://www.youtube.com/watch?v=FjD9CKLnTzA&t).
  
