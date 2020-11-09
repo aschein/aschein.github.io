@@ -16,6 +16,8 @@ I received my PhD from the [College of Information and Computer Sciences](https:
 Prior to that, I received an MA in Linguistics from UMass Amherst and a dual BA in Linguistics and Political Science also from UMass.
 
 ## Recent news  
+* My [op-ed](https://www.ft.com/content/7e3a6852-464b-4163-8a90-90de7038740e) on the success of Biden's "virtual ground game" was published in the Financial Times. 
+* I discussed the election with Professors Gregory Wawro and Robert Shapiro on a panel hosted by the Columbia Undergraduate Science Journal. A recording of our conversation is available [here](https://www.youtube.com/watch?v=xeqGaklXWNA&ab_channel=ColumbiaUndergraduateScienceJournal).
 * Our research was featured in a [New Yorker article](https://www.newyorker.com/news/daily-comment/a-vote-tripling-project-is-betting-that-non-voters-will-vote-if-a-friend-asks-them-to) on "vote tripling".
 * My [op-ed](https://news.columbia.edu/friend-friend-texting-election-voter-turnout-polls-canvassing) about Biden's "gamble" on virtual friend-to-friend voter mobilization tactics appeared in Columbia News.  
 * I was featured in an [NBC News article](https://www.nbcnews.com/politics/2020-election/coronavirus-ground-game-gamble-hits-home-stretch-n1242803) about Biden's ground game.
