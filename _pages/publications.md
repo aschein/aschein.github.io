@@ -45,6 +45,12 @@ An earlier version of this work was presented at the _International Conference o
 </div>      
 <!-- <iframe width="300" height="168" src="https://www.youtube.com/embed/FjD9CKLnTzA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
+## A Bayesian Nonparametric Model for Inferring Subclonal Populations from Structured DNA Sequencing Data
+
+S. He, A. Schein, V. Sarsani, and P. Flaherty
+
+In revision at _Annals of Applied Statistics_. Preprint available at bioRxiv. ([paper](https://www.biorxiv.org/content/10.1101/2020.11.10.330183v1))
+
 ## Allocative Poisson Factorization for Computational Social Science
 
 _PhD dissertation, UMass Amherst, 2019_. ([pdf](../files/AaronSchein_dissertation.pdf))
@@ -61,7 +67,7 @@ A. Schein, Z. S. Wu, A. Schofield, M. Zhou, and H. M. Wallach
 _Proceedings of ICML 2019_. ([paper](http://proceedings.mlr.press/v97/schein19a/schein19a.pdf), [appendix](http://proceedings.mlr.press/v97/schein19a/schein19a-supp.pdf), [poster](../files/ScheinWuSchofieldZhouWallach2019_poster.pdf), [code](https://github.com/xandaschofield/locally_private_bpf_icml19))
 
 Selected for a full-length oral presentation! ([talk](https://slideslive.com/38917932/privacy), skip to 29:55)  
-<div id="presentation-embed-38917932"></div>
+<!-- <div id="presentation-embed-38917932"></div>
 <script src='https://slideslive.com/embed_presentation.js'></script>
 <script>
     embed = new SlidesLiveEmbed('presentation-embed-38917932', {
@@ -70,7 +76,7 @@ Selected for a full-length oral presentation! ([talk](https://slideslive.com/389
         verticalEnabled: true,
         startTime: 1795
     });
-</script>
+</script> -->
 
 Earlier versions of this work were presented at:    
 * _New Directions in Analyzing Text as Data (TADA) 2018_
