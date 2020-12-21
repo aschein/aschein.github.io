@@ -49,7 +49,7 @@ An earlier version of this work was presented at the _International Conference o
 
 S. He, A. Schein, V. Sarsani, and P. Flaherty
 
-In revision at _Annals of Applied Statistics_. Preprint available at bioRxiv. ([paper](https://www.biorxiv.org/content/10.1101/2020.11.10.330183v1))
+To appear in _Annals of Applied Statistics_. Preprint available at bioRxiv. ([paper](https://www.biorxiv.org/content/10.1101/2020.11.10.330183v1))
 
 ## Allocative Poisson Factorization for Computational Social Science
 
